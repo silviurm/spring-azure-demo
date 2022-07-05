@@ -11,7 +11,7 @@ public class SpringTest1Application {
 
 	@GetMapping("/message")
 	public String message(){
-		return "Hello Worlds!";
+		return "Salutare lume";
 	}
 
 	public static void main(String[] args) {
